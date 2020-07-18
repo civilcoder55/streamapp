@@ -10,7 +10,7 @@
 
 
 
-[<img src="https://backenddev.co/img/streamingapp.mp4" width="50%">](https://backenddev.co/img/streamingapp.mp4)
+[<img src="https://backenddev.co/img/1.png" width="50%">](https://backenddev.co/img/streamingapp.mp4)
 this app hosted via nginx on linux server as revers proxy & node.js server via pm2 as main server
 static files served via node.js express static
 
