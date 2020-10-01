@@ -4,14 +4,9 @@
 
 <a href="http://stream.backenddev.co"><img src="https://stream.backenddev.co/img/logo.svg"></a>
 
-> this project is a simple site written in node.js with express.js framework , main task of this project is to handle downloading & transcoding & streaming files
+> this project is a simple site written in node.js with express.js framework , main task of this project is to handle transcoding & streaming media files
 
 [stream.backenddev.co](https://stream.backenddev.co)
-
-
-## click to watch the video (https://backenddev.co/img/streamingapp.mp4)
-
-[<img src="https://backenddev.co/img/1.png" width="50%">](https://backenddev.co/img/streamingapp.mp4)
 
 
 
